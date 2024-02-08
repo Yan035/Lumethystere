@@ -2,7 +2,8 @@ body {
     margin: 0;
     font-family: Helvetica, sans-serif;
     background-image: url(./assets/img/luméthystère-fond.webp);
-    background-color: #ada09bf6;
+    background-size: cover;
+
 
 }
 
